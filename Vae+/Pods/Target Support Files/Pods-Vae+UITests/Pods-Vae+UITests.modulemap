@@ -1,0 +1,6 @@
+framework module Pods_Vae_UITests {
+  umbrella header "Pods-Vae+UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

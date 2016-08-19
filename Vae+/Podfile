@@ -1,0 +1,32 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+  target 'Vae+' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  inhibit_all_warnings!
+  platform :ios, '8.0'
+  use_frameworks!
+
+  pod 'SnapKit',:git => 'https://github.com/SnapKit/SnapKit.git'
+  pod 'Alamofire',:git => 'https://github.com/Alamofire/Alamofire.git'
+  pod 'Kingfisher',:git => 'https://github.com/onevcat/Kingfisher.git'
+  pod 'KMNavigationBarTransition',:git => 'https://github.com/MoZhouqi/KMNavigationBarTransition.git'
+  pod 'MJRefresh',:git => 'https://github.com/CoderMJLee/MJRefresh.git'
+  pod 'IQKeyboardManager',:git => 'https://github.com/hackiftekhar/IQKeyboardManager.git'
+  pod 'MonkeyKing', :git => 'https://github.com/nixzhu/MonkeyKing.git'
+  pod 'Reachability',:git => 'https://github.com/tonymillion/Reachability.git'
+  pod 'MBProgressHUD',:git => 'https://github.com/jdg/MBProgressHUD.git'
+  pod 'TabPageViewController',:git =>'https://github.com/EndouMari/TabPageViewController.git'
+  pod 'BSImagePicker',:git => 'https://github.com/mikaoj/BSImagePicker.git'
+
+  target 'Vae+Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Vae+UITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

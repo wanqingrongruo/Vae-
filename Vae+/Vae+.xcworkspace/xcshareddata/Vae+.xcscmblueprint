@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B958BC3A196098F1B14CE3A354BFFF0D341A8132",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B958BC3A196098F1B14CE3A354BFFF0D341A8132" : 0,
+    "B69EA00F5F131820FF9BA77560B5184570563F17" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9CB8F5A-D34D-469B-B6ED-F1FE77CA47C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B958BC3A196098F1B14CE3A354BFFF0D341A8132" : "Vae+\/",
+    "B69EA00F5F131820FF9BA77560B5184570563F17" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vae+",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Vae+\/Vae+.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ozner-app-ios-org\/HoyoServicer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B69EA00F5F131820FF9BA77560B5184570563F17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wanqingrongruo\/Vae-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B958BC3A196098F1B14CE3A354BFFF0D341A8132"
+    }
+  ]
+}
