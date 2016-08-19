@@ -17,6 +17,31 @@
 		E02AA8E41D66D91B0038EF7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E02AA8E21D66D91B0038EF7E /* LaunchScreen.storyboard */; };
 		E02AA8EF1D66D91B0038EF7E /* Vae_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA8EE1D66D91B0038EF7E /* Vae_Tests.swift */; };
 		E02AA8FA1D66D91C0038EF7E /* Vae_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA8F91D66D91C0038EF7E /* Vae_UITests.swift */; };
+		E02AA9241D66E32B0038EF7E /* RNBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9231D66E32B0038EF7E /* RNBaseViewController.swift */; };
+		E02AA9261D66E3C40038EF7E /* RNMainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9251D66E3C40038EF7E /* RNMainTabBarController.swift */; };
+		E02AA9291D66E6AF0038EF7E /* RNVaeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9281D66E6AF0038EF7E /* RNVaeViewController.swift */; };
+		E02AA92B1D66E6C20038EF7E /* RNCycleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA92A1D66E6C20038EF7E /* RNCycleViewController.swift */; };
+		E02AA92D1D66E6D40038EF7E /* RNFindViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA92C1D66E6D40038EF7E /* RNFindViewController.swift */; };
+		E02AA92F1D66E6F30038EF7E /* RNMineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA92E1D66E6F30038EF7E /* RNMineViewController.swift */; };
+		E02AA9361D66E88B0038EF7E /* RNBaseUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9301D66E88B0038EF7E /* RNBaseUI.swift */; };
+		E02AA9371D66E88B0038EF7E /* RNColor+Expand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9311D66E88B0038EF7E /* RNColor+Expand.swift */; };
+		E02AA9381D66E88B0038EF7E /* RNDynamicSizeWithString.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9321D66E88B0038EF7E /* RNDynamicSizeWithString.swift */; };
+		E02AA9391D66E88B0038EF7E /* RNRegexHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9331D66E88B0038EF7E /* RNRegexHelper.swift */; };
+		E02AA93A1D66E88B0038EF7E /* RNUITextField+Expand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9341D66E88B0038EF7E /* RNUITextField+Expand.swift */; };
+		E02AA93B1D66E88B0038EF7E /* RNUIView+Expand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9351D66E88B0038EF7E /* RNUIView+Expand.swift */; };
+		E02AA93D1D66E89E0038EF7E /* RNNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA93C1D66E89E0038EF7E /* RNNavigationController.swift */; };
+		E02AA9431D66EECC0038EF7E /* RNColorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9421D66EECC0038EF7E /* RNColorManager.swift */; };
+		E02AA9451D66F0490038EF7E /* RNGlobalDefined.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9441D66F0490038EF7E /* RNGlobalDefined.swift */; };
+		E02AA9471D66F6990038EF7E /* RNJourneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9461D66F6990038EF7E /* RNJourneyViewController.swift */; };
+		E02AA9491D66F6A70038EF7E /* RNStateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9481D66F6A70038EF7E /* RNStateViewController.swift */; };
+		E02AA94B1D66F6B60038EF7E /* RNActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA94A1D66F6B60038EF7E /* RNActivityViewController.swift */; };
+		E02AA9541D66F9C90038EF7E /* TabCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA94D1D66F9C90038EF7E /* TabCollectionCell.swift */; };
+		E02AA9551D66F9C90038EF7E /* TabCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E02AA94E1D66F9C90038EF7E /* TabCollectionCell.xib */; };
+		E02AA9561D66F9C90038EF7E /* TabPageOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA94F1D66F9C90038EF7E /* TabPageOption.swift */; };
+		E02AA9571D66F9C90038EF7E /* TabPageViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E02AA9501D66F9C90038EF7E /* TabPageViewController.storyboard */; };
+		E02AA9581D66F9C90038EF7E /* TabPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9511D66F9C90038EF7E /* TabPageViewController.swift */; };
+		E02AA9591D66F9C90038EF7E /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E02AA9521D66F9C90038EF7E /* TabView.swift */; };
+		E02AA95A1D66F9C90038EF7E /* TabView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E02AA9531D66F9C90038EF7E /* TabView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +82,32 @@
 		E02AA8F51D66D91B0038EF7E /* Vae+UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Vae+UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E02AA8F91D66D91C0038EF7E /* Vae_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vae_UITests.swift; sourceTree = "<group>"; };
 		E02AA8FB1D66D91C0038EF7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E02AA9231D66E32B0038EF7E /* RNBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNBaseViewController.swift; sourceTree = "<group>"; };
+		E02AA9251D66E3C40038EF7E /* RNMainTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNMainTabBarController.swift; sourceTree = "<group>"; };
+		E02AA9271D66E5060038EF7E /* Swift_OC_Bridging.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Swift_OC_Bridging.h; sourceTree = "<group>"; };
+		E02AA9281D66E6AF0038EF7E /* RNVaeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNVaeViewController.swift; sourceTree = "<group>"; };
+		E02AA92A1D66E6C20038EF7E /* RNCycleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNCycleViewController.swift; sourceTree = "<group>"; };
+		E02AA92C1D66E6D40038EF7E /* RNFindViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNFindViewController.swift; sourceTree = "<group>"; };
+		E02AA92E1D66E6F30038EF7E /* RNMineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNMineViewController.swift; sourceTree = "<group>"; };
+		E02AA9301D66E88B0038EF7E /* RNBaseUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNBaseUI.swift; sourceTree = "<group>"; };
+		E02AA9311D66E88B0038EF7E /* RNColor+Expand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RNColor+Expand.swift"; sourceTree = "<group>"; };
+		E02AA9321D66E88B0038EF7E /* RNDynamicSizeWithString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNDynamicSizeWithString.swift; sourceTree = "<group>"; };
+		E02AA9331D66E88B0038EF7E /* RNRegexHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNRegexHelper.swift; sourceTree = "<group>"; };
+		E02AA9341D66E88B0038EF7E /* RNUITextField+Expand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RNUITextField+Expand.swift"; sourceTree = "<group>"; };
+		E02AA9351D66E88B0038EF7E /* RNUIView+Expand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RNUIView+Expand.swift"; sourceTree = "<group>"; };
+		E02AA93C1D66E89E0038EF7E /* RNNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNNavigationController.swift; sourceTree = "<group>"; };
+		E02AA9421D66EECC0038EF7E /* RNColorManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNColorManager.swift; sourceTree = "<group>"; };
+		E02AA9441D66F0490038EF7E /* RNGlobalDefined.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNGlobalDefined.swift; sourceTree = "<group>"; };
+		E02AA9461D66F6990038EF7E /* RNJourneyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNJourneyViewController.swift; sourceTree = "<group>"; };
+		E02AA9481D66F6A70038EF7E /* RNStateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNStateViewController.swift; sourceTree = "<group>"; };
+		E02AA94A1D66F6B60038EF7E /* RNActivityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RNActivityViewController.swift; sourceTree = "<group>"; };
+		E02AA94D1D66F9C90038EF7E /* TabCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabCollectionCell.swift; sourceTree = "<group>"; };
+		E02AA94E1D66F9C90038EF7E /* TabCollectionCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabCollectionCell.xib; sourceTree = "<group>"; };
+		E02AA94F1D66F9C90038EF7E /* TabPageOption.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabPageOption.swift; sourceTree = "<group>"; };
+		E02AA9501D66F9C90038EF7E /* TabPageViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TabPageViewController.storyboard; sourceTree = "<group>"; };
+		E02AA9511D66F9C90038EF7E /* TabPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabPageViewController.swift; sourceTree = "<group>"; };
+		E02AA9521D66F9C90038EF7E /* TabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
+		E02AA9531D66F9C90038EF7E /* TabView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabView.xib; sourceTree = "<group>"; };
 		F1F31B8B068AE2706A1AA68F /* Pods-Vae+Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vae+Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Vae+Tests/Pods-Vae+Tests.release.xcconfig"; sourceTree = "<group>"; };
 		FFA528FAB8B3438164E80CDD /* Pods-Vae+.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vae+.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Vae+/Pods-Vae+.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -181,6 +232,8 @@
 		E02AA9071D66E1F30038EF7E /* common */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA9231D66E32B0038EF7E /* RNBaseViewController.swift */,
+				E02AA9251D66E3C40038EF7E /* RNMainTabBarController.swift */,
 			);
 			path = common;
 			sourceTree = "<group>";
@@ -188,6 +241,7 @@
 		E02AA9081D66E1F30038EF7E /* configFile */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA9271D66E5060038EF7E /* Swift_OC_Bridging.h */,
 			);
 			path = configFile;
 			sourceTree = "<group>";
@@ -205,6 +259,7 @@
 		E02AA90A1D66E1F30038EF7E /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA92A1D66E6C20038EF7E /* RNCycleViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -226,6 +281,7 @@
 		E02AA90D1D66E1F30038EF7E /* extraLib */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA94C1D66F9B40038EF7E /* TapPageViewController */,
 			);
 			name = extraLib;
 			path = extraLibrary;
@@ -244,6 +300,7 @@
 		E02AA90F1D66E1F30038EF7E /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA92C1D66E6D40038EF7E /* RNFindViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -320,6 +377,7 @@
 		E02AA9191D66E1F30038EF7E /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA92E1D66E6F30038EF7E /* RNMineViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -355,6 +413,15 @@
 		E02AA91E1D66E1F30038EF7E /* toolbox */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA9301D66E88B0038EF7E /* RNBaseUI.swift */,
+				E02AA9311D66E88B0038EF7E /* RNColor+Expand.swift */,
+				E02AA9421D66EECC0038EF7E /* RNColorManager.swift */,
+				E02AA9321D66E88B0038EF7E /* RNDynamicSizeWithString.swift */,
+				E02AA9331D66E88B0038EF7E /* RNRegexHelper.swift */,
+				E02AA9341D66E88B0038EF7E /* RNUITextField+Expand.swift */,
+				E02AA9351D66E88B0038EF7E /* RNUIView+Expand.swift */,
+				E02AA93C1D66E89E0038EF7E /* RNNavigationController.swift */,
+				E02AA9441D66F0490038EF7E /* RNGlobalDefined.swift */,
 			);
 			path = toolbox;
 			sourceTree = "<group>";
@@ -372,6 +439,10 @@
 		E02AA9201D66E1F30038EF7E /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				E02AA9281D66E6AF0038EF7E /* RNVaeViewController.swift */,
+				E02AA9481D66F6A70038EF7E /* RNStateViewController.swift */,
+				E02AA9461D66F6990038EF7E /* RNJourneyViewController.swift */,
+				E02AA94A1D66F6B60038EF7E /* RNActivityViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -388,6 +459,20 @@
 			children = (
 			);
 			path = views;
+			sourceTree = "<group>";
+		};
+		E02AA94C1D66F9B40038EF7E /* TapPageViewController */ = {
+			isa = PBXGroup;
+			children = (
+				E02AA94D1D66F9C90038EF7E /* TabCollectionCell.swift */,
+				E02AA94E1D66F9C90038EF7E /* TabCollectionCell.xib */,
+				E02AA94F1D66F9C90038EF7E /* TabPageOption.swift */,
+				E02AA9501D66F9C90038EF7E /* TabPageViewController.storyboard */,
+				E02AA9511D66F9C90038EF7E /* TabPageViewController.swift */,
+				E02AA9521D66F9C90038EF7E /* TabView.swift */,
+				E02AA9531D66F9C90038EF7E /* TabView.xib */,
+			);
+			path = TapPageViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -502,7 +587,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E02AA9571D66F9C90038EF7E /* TabPageViewController.storyboard in Resources */,
 				E02AA8E41D66D91B0038EF7E /* LaunchScreen.storyboard in Resources */,
+				E02AA95A1D66F9C90038EF7E /* TabView.xib in Resources */,
+				E02AA9551D66F9C90038EF7E /* TabCollectionCell.xib in Resources */,
 				E02AA8E11D66D91B0038EF7E /* Assets.xcassets in Resources */,
 				E02AA8DF1D66D91B0038EF7E /* Main.storyboard in Resources */,
 			);
@@ -652,8 +740,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E02AA9261D66E3C40038EF7E /* RNMainTabBarController.swift in Sources */,
+				E02AA9541D66F9C90038EF7E /* TabCollectionCell.swift in Sources */,
+				E02AA94B1D66F6B60038EF7E /* RNActivityViewController.swift in Sources */,
+				E02AA9561D66F9C90038EF7E /* TabPageOption.swift in Sources */,
+				E02AA9471D66F6990038EF7E /* RNJourneyViewController.swift in Sources */,
+				E02AA9391D66E88B0038EF7E /* RNRegexHelper.swift in Sources */,
+				E02AA92D1D66E6D40038EF7E /* RNFindViewController.swift in Sources */,
+				E02AA9361D66E88B0038EF7E /* RNBaseUI.swift in Sources */,
+				E02AA9291D66E6AF0038EF7E /* RNVaeViewController.swift in Sources */,
+				E02AA9241D66E32B0038EF7E /* RNBaseViewController.swift in Sources */,
+				E02AA9591D66F9C90038EF7E /* TabView.swift in Sources */,
+				E02AA9371D66E88B0038EF7E /* RNColor+Expand.swift in Sources */,
 				E02AA8DC1D66D91B0038EF7E /* ViewController.swift in Sources */,
+				E02AA93D1D66E89E0038EF7E /* RNNavigationController.swift in Sources */,
+				E02AA9431D66EECC0038EF7E /* RNColorManager.swift in Sources */,
+				E02AA93B1D66E88B0038EF7E /* RNUIView+Expand.swift in Sources */,
+				E02AA9581D66F9C90038EF7E /* TabPageViewController.swift in Sources */,
+				E02AA9381D66E88B0038EF7E /* RNDynamicSizeWithString.swift in Sources */,
+				E02AA93A1D66E88B0038EF7E /* RNUITextField+Expand.swift in Sources */,
+				E02AA92F1D66E6F30038EF7E /* RNMineViewController.swift in Sources */,
 				E02AA8DA1D66D91B0038EF7E /* AppDelegate.swift in Sources */,
+				E02AA92B1D66E6C20038EF7E /* RNCycleViewController.swift in Sources */,
+				E02AA9451D66F0490038EF7E /* RNGlobalDefined.swift in Sources */,
+				E02AA9491D66F6A70038EF7E /* RNStateViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -798,10 +908,14 @@
 			baseConfigurationReference = FFA528FAB8B3438164E80CDD /* Pods-Vae+.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = "Vae+/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zhengwenxiang.Vae-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/roni/Desktop/sourcetree/Vae+/Vae+/Vae+/configFile/Swift_OC_Bridging.h";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -810,10 +924,14 @@
 			baseConfigurationReference = 06878DC8DA7AB92CCDDD643B /* Pods-Vae+.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = "Vae+/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zhengwenxiang.Vae-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/roni/Desktop/sourcetree/Vae+/Vae+/Vae+/configFile/Swift_OC_Bridging.h";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

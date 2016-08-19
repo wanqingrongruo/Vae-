@@ -16,7 +16,6 @@
   pod 'MonkeyKing', :git => 'https://github.com/nixzhu/MonkeyKing.git'
   pod 'Reachability',:git => 'https://github.com/tonymillion/Reachability.git'
   pod 'MBProgressHUD',:git => 'https://github.com/jdg/MBProgressHUD.git'
-  pod 'TabPageViewController',:git =>'https://github.com/EndouMari/TabPageViewController.git'
   pod 'BSImagePicker',:git => 'https://github.com/mikaoj/BSImagePicker.git'
 
   target 'Vae+Tests' do
